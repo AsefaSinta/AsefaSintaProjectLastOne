@@ -1,0 +1,28 @@
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\bin\Debug\Movies Manager Application.exe.config
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\bin\Debug\Movies Manager Application.exe
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\bin\Debug\Movies Manager Application.pdb
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\obj\Debug\Movies Manager Application.csprojAssemblyReference.cache
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.About.resources
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.AddMovie.resources
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.DeleteMovie.resources
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.Main.resources
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.Properties.Resources.resources
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.UpdateMovie.resources
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\obj\Debug\Movies Manager Application.csproj.GenerateResource.cache
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\obj\Debug\Movies Manager Application.csproj.CoreCompileInputs.cache
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\obj\Debug\Movies Manager Application.exe
+K:\c#projectFinal\FProject\FinalProject\Movies Manager Application\Movies Manager Application\obj\Debug\Movies Manager Application.pdb
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\obj\Debug\Movies Manager Application.csprojAssemblyReference.cache
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\obj\Debug\Movies Manager Application.exe
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\obj\Debug\Movies Manager Application.pdb
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\bin\Debug\Movies Manager Application.exe.config
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\bin\Debug\Movies Manager Application.exe
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\bin\Debug\Movies Manager Application.pdb
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.About.resources
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.AddMovie.resources
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.DeleteMovie.resources
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.Main.resources
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.Properties.Resources.resources
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\obj\Debug\Movies_Manager_Application.UpdateMovie.resources
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\obj\Debug\Movies Manager Application.csproj.GenerateResource.cache
+S:\C#\Final Project c#\FinalProjectc-1630Done-main\FinalProjectc-1630Done-main\Movies Manager Application\Movies Manager Application\obj\Debug\Movies Manager Application.csproj.CoreCompileInputs.cache
